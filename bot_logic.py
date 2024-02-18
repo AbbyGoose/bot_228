@@ -38,4 +38,4 @@ async def on_message(message):
     else:
         await message.channel.send(message.content)
 
-client.run("MTIwNjE4ODI1MDMzMTM1NzIxNA.GB8F1I.KYyOOVcwWTyy2_uPjBCM0EL_O6549JekIQre14")
+client.run("token")
